@@ -9,7 +9,7 @@
 
 ### ✨ 진행목록
 - [제주코딩베이스캠프 100제](http://paullab.co.kr/codefestival.html)
-- [프로그래머스](https://www.notion.so/Algorithm-3162692eb9e94a6fabf2980dd3273215#e3fc106b1b1a4a1aa07a2c2aae8ed5a2) 
+- [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges) 
 <br>
 <br>
 
